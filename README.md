@@ -30,4 +30,4 @@ HealthCare AI is a disease prediction system developed using Machine Learning al
 - Ensemble Method
 =======
 - Ensemble Method
->>>>>>> 4e4f2ac24dbf9345943b261c2b1bbc45cd9ff308
+>>>>>>> 
