@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-
+Create database healthcare_ai;
 USE healthcare_ai;
 
 -- Users Table
