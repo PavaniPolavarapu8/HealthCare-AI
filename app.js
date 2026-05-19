@@ -5,7 +5,7 @@ let app = {
     selectedAlgorithm: 'xgboost',
     modelTrained: false,
     charts: {},
-    diseases: ['Diabetes', 'Heart Disease', 'Hypertension', 'Obesity'],
+    diseases: ['Diabetes', 'Heart Diseases', 'Hypertension', 'Obesity'],
     symptoms: ['Chest Pain', 'Shortness of Breath', 'Fatigue', 'Dizziness',
               'Frequent Urination', 'Excessive Thirst', 'Weight Loss', 'Blurred Vision',
               'Headaches', 'Nausea', 'Rapid Heartbeat', 'Leg Swelling',
