@@ -1,4 +1,4 @@
-# HealthCare AI
+# HealthCare AI:
 
 HealthCare AI is a disease prediction system developed using Machine Learning algorithms such as:
 
@@ -7,14 +7,14 @@ HealthCare AI is a disease prediction system developed using Machine Learning al
 - XGBoost
 - Ensemble Learning
 
-## Features
+## Features:
 - User Registration & Login
 - Health Risk Prediction
 - Dashboard Analytics
 - Disease Prediction System
 - Profile Management
 
-## Technologies Used
+## Technologies Used:
 - HTML
 - CSS
 - JavaScript
@@ -22,7 +22,7 @@ HealthCare AI is a disease prediction system developed using Machine Learning al
 - MySQL
 - Machine Learning
 
-## Algorithms Used
+## Algorithms Used:
 - Random Forest
 - Support Vector Machine (SVM)
 - XGBoost
