@@ -63,7 +63,7 @@ function handleRegister($data, $conn) {
         sendResponse(false, 'Registration failed');
     }
 }
-
+#handle login
 function handleLogin($data, $conn) {
     if (!isset($data['email'], $data['password'])) {
         sendResponse(false, 'Missing email or password');
